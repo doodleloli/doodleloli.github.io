@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/doodleloli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doodleloli.github.io
+  * I am doodleloli (https://keybase.io/doodleloli) on keybase.
+  * I have a public key ASBm-3MvmuU8-eD7Rq34ddU0DEHc_RKhAhVjCmCtTFtNwwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012066fb732f9ae53cf9e0fb46adf875d5340c41dcfd12a10215630a60ad4c5b4dc30a",
+      "host": "keybase.io",
+      "kid": "012066fb732f9ae53cf9e0fb46adf875d5340c41dcfd12a10215630a60ad4c5b4dc30a",
+      "uid": "a489e21ed9c1b7149d2a31c47d074619",
+      "username": "doodleloli"
+    },
+    "merkle_root": {
+      "ctime": 1551380895,
+      "hash": "ca42a44ae2d8c9f629c169a896089f3443dff2a8fd74df4506c088c2e315bb73942eb22ed30ce3741ca68452bc59125f76393299506de221341a7f0c01f83d57",
+      "hash_meta": "349b48fbebdd521982a9d6d25101a73d41fde0e91b6397d742d84c8b379486bb",
+      "seqno": 4850018
+    },
+    "service": {
+      "entropy": "42OxRnANaiZvyLyRypjdSfLZ",
+      "hostname": "doodleloli.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.0.0"
+  },
+  "ctime": 1551380928,
+  "expire_in": 504576000,
+  "prev": "1279eec7df81fbb0c85fab87fcb30936cb5493917aedc58952d49267cc7d5dc1",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZvtzL5rlPPng+0at+HXVNAxB3P0SoQIVYwpgrUxbTcMKp3BheWxvYWTESpcCB8QgEnnux9+B+7DIX6uH/LMJNstUk5F67cWJUtSSZ8x9XcHEICXbPs8fPQIP6sYAJsB/rZ+AykemKwCugVx/K3bhtSNRAgHCo3NpZ8RAA2cyNjx+TwIY/98fn1SCPyiv2BBhC9kAsqUYqO6mJnAz4CQntAel4e9xuCwTSlf4sO7m0qf4bWVSzSL48WQsA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBh2u0oBNaYccO+8TGawEfRiru26SAPcdMJtN3iMsyDBo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/doodleloli
+
+==================================================================
